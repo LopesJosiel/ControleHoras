@@ -18,3 +18,4 @@ For further reference, please consider the following sections:
 * [Guides - Latest - Tutorials Quarkus](https://quarkus.io/guides/)
 * [Getting Started Postman](https://learning.postman.com/docs/getting-started/overview/)
 * [DATASOURCES](https://quarkus.io/guides/datasource)
+* [Writing Rest Services With Resteasy Reactive](https://quarkus.io/guides/resteasy-reactive)
